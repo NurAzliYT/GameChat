@@ -1,6 +1,6 @@
-name: ChatGames
-version: 1.1.0
+name: GameChat
+version: 1.0.0
 api: 5.0.0
-author: antbag
-main: antbag\chatgames\Main
+author: NurAzliYT
+main: NurAzliYT\gamechat\Main
 soft-depend: ["BedrockEconomy", "EconomyAPI"]
