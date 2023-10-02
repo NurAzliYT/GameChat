@@ -4,4 +4,4 @@ api: 5.0.0
 author: NurAzliYT
 main: NurAzliYT\GameChat\Main
 soft-depend: ["BedrockEconomy", "EconomyAPI"]
-icon: icon.png
+icon: chat.png
