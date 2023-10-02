@@ -2,5 +2,6 @@ name: GameChat
 version: 1.0.0
 api: 5.0.0
 author: NurAzliYT
-main: NurAzliYT\gamechat\Main
+main: NurAzliYT\GameChat\Main
 soft-depend: ["BedrockEconomy", "EconomyAPI"]
+icon: icon.png
